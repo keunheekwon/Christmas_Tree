@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+
+node_modules/
+web/dist/
+
+*.mp3
+*.mp4
+tree_*.png
