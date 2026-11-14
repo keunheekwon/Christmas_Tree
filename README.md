@@ -47,13 +47,3 @@ The container serves the static build with `serve` on port 3000 (works behind Do
 | ↑ / ↓ | Volume (web) |
 | M | Mute (web) |
 | Esc | Quit (desktop) / stop (web) |
-
-## Music
-
-No audio file is included in this repository.
-To play music, put your own MP3 at:
-
-- Desktop: `Wham! - Last Christmas.mp3` next to `christmas_tree.py`
-- Web: `web/public/music.mp3`
-
-Both versions run fine without it.
