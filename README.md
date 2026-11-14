@@ -1,5 +1,7 @@
 # Christmas_Tree
 
+English | [한국어](README-KR.md)
+
 Rotating 3D ASCII Christmas tree, rendered from tens of thousands of particles.
 Available as a desktop app (Python + numpy + pygame) and a web version (TypeScript + Canvas 2D).
 
